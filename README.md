@@ -27,5 +27,6 @@ The goal of this project is designing a compiler that reads an expression and pr
 | x = 36 :M: test :D: ps :A:123 | t1 = ps/test; <br> t2 = t1*36; <br> x = 123+t2; |
 
 ## How to use
+* You will need a Linux operating system to run the code (Ubuntu 20.04 LTS was used in this project)
 * You only need to run the `script.sh` file (Required dependencies will be installed).
 * You should input your expression in the command-line.
