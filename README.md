@@ -25,3 +25,7 @@ The goal of this project is designing a compiler that reads an expression and pr
 | x = 3 :D: 4:S: 12             | t1 = 4/3; <br> x = 12-t1;                       |
 | x = 3 :D: (4:S: 12)           | t1 = 12-4; <br> x = t1/3;                       |
 | x = 36 :M: test :D: ps :A:123 | t1 = ps/test; <br> t2 = t1*36; <br> x = 123+t2; |
+
+## How to use
+* You only need to run the `script.sh` file (Required dependencies will be installed).
+* You should input your expression in the command-line.
