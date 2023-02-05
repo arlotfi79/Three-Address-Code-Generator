@@ -1,6 +1,4 @@
 # Three-Address-Code-generator
-This project was designed by [**Dr. Eghbal Mansoori**](https://ece.shirazu.ac.ir/en/~mansoori) for the Principles of Compiler Design course (Fall 2022).
-
 ## Description  
 The goal of this project is designing a compiler that reads an expression and produces the three-address-code for it in C language so that the result of the expression is calculated when executed. 
 
